@@ -1,0 +1,12 @@
+{
+  "env": {
+    "browser": true,
+    "node": true,
+    "jest": true
+  },
+  "extends": "airbnb",
+  "rules": {
+    "consistent-return": 0,
+    "react/jsx-one-expression-per-line": 0
+  }
+}
