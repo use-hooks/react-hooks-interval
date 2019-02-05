@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import useInterval from '../src/index';
+import useInterval from '../src';
 
 export default function App() {
   const [count, setCount] = useState(0);

@@ -49,7 +49,7 @@ yarn add @use-hooks/interval
 ```js
 import React, { useState } from 'react';
 
-import useInterval from '@use-hooks/interval/index';
+import useInterval from '@use-hooks/interval';
 
 export default function App() {
   const [count, setCount] = useState(0);
